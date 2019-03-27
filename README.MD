@@ -2,7 +2,9 @@
 
 This is a light-weight template for creating Electron App within React. With it, you can easily create an application works on MacOS, Windows and Linux.
 
-![app.gif](https://upload-images.jianshu.io/upload_images/1990133-84b6db49fa5e6260.gif?imageMogr2/auto-orient/strip)
+<p align="center">
+  <img src="https://upload-images.jianshu.io/upload_images/1990133-9123dde28bb46b29.gif"/>
+</p>
 
 ## What's included
 
